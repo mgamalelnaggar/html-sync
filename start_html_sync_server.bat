@@ -1,0 +1,1 @@
+pythonw.exe "C:\Users\mgamal\Desktop\html_sync_server.py"
